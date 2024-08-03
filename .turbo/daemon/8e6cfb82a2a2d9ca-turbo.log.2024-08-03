@@ -517,3 +517,33 @@
 2024-08-03T12:06:13.602597Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/next.config.js"), AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("client")}
 2024-08-03T12:06:13.602611Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("my-app"), path: AnchoredSystemPathBuf("client") }}))
 2024-08-03T12:06:13.634266Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-03T12:07:18.603901Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-08-03T12:07:18.603930Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-08-03T12:07:19.702849Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-08-03T12:07:19.702863Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-08-03T12:07:21.302560Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-08-03T12:07:21.302571Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-08-03T12:07:22.703035Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-08-03T12:07:22.703047Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-08-03T12:07:23.504006Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-08-03T12:07:23.504019Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-08-03T12:08:04.504784Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-08-03T12:08:04.504798Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-08-03T12:08:09.004942Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/postcss.config.js")}
+2024-08-03T12:08:09.004964Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("my-app"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-03T12:08:09.022372Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-03T12:08:11.505692Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/postcss.config.js")}
+2024-08-03T12:08:11.505705Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("my-app"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-03T12:08:11.541344Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-03T12:08:12.305296Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-08-03T12:08:12.305309Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-08-03T12:08:23.105425Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/postcss.config.js")}
+2024-08-03T12:08:23.105439Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("my-app"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-03T12:08:25.405240Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client/postcss.config.js")}
+2024-08-03T12:08:25.405254Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("my-app"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-03T12:08:25.605797Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("client")}
+2024-08-03T12:08:25.605811Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("my-app"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-03T12:08:25.659748Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-03T12:08:28.105651Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("client"), AnchoredSystemPathBuf(""), AnchoredSystemPathBuf("client/postcss.config.js")}
+2024-08-03T12:08:28.105664Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("my-app"), path: AnchoredSystemPathBuf("client") }}))
+2024-08-03T12:08:28.105708Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
