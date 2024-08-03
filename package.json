@@ -10,7 +10,7 @@
 		"start": "turbo run start"
 	},
 	"devDependencies": {
-		"turbo": "^1.0.0"
+		"turbo": "^2.0.11"
 	},
 	"workspaces": [
 		"client",
