@@ -1,5 +1,30 @@
 {
-  "node": {},
+  "node": {
+    "7d6164cc3a8eed494dfb3796da343290fd8aad7e": {
+      "workers": {
+        "app/page": "(action-browser)/../node_modules/.pnpm/next@14.2.5_@playwright+test@1.47.2_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Famira.salah%2FDesktop%2Fafetivo%2Fclient%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22unsubscribeUser%22%2C%22subscribeUser%22%2C%22sendNotification%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "869b8506439ffd7a275cf6e116fa8e4c2ba724d5": {
+      "workers": {
+        "app/page": "(action-browser)/../node_modules/.pnpm/next@14.2.5_@playwright+test@1.47.2_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Famira.salah%2FDesktop%2Fafetivo%2Fclient%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22unsubscribeUser%22%2C%22subscribeUser%22%2C%22sendNotification%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    },
+    "d74c5ee76c69d768a8cbc2da04a012f73c2aa93d": {
+      "workers": {
+        "app/page": "(action-browser)/../node_modules/.pnpm/next@14.2.5_@playwright+test@1.47.2_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Famira.salah%2FDesktop%2Fafetivo%2Fclient%2Fsrc%2Fapp%2Factions.ts%22%2C%5B%22unsubscribeUser%22%2C%22subscribeUser%22%2C%22sendNotification%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
-  "encryptionKey": "KIHxz7z4Zit3SVcnjckvjuknJuFcBGkBQ6ySZefW67A="
+  "encryptionKey": "KKGUXv0NTHz6yDsNvYLs2r7Y1kjwNsrS3jriJfGw2T0="
 }
